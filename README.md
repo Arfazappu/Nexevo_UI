@@ -1,19 +1,19 @@
-Tech Stack
+## Tech Stack
 
 React Vite
 TypeScript
 Tailwind CSS
 JSON Server (Mock API)
 
-Setup
+## Setup
 Clone the repo
 git clone https://github.com/yourrepo.git
 
-Install dependencies
+## Install dependencies
 npm install
 
-Run the frontend
+## Run the frontend
 npm run dev
 
-Run JSON Server (Mock API)
+## Run JSON Server (Mock API)
 npm run server
